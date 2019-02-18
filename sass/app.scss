@@ -128,14 +128,14 @@ a {
 
 .brand:after {
     @include stroke($black, $white);
-    content: ' 2017';
+    content: ' 1.0';
 }
 
 .spinner {
     display: block;
     margin: auto;
-    background-image: url(../assets/images/hack-logo/hack_logo_glow.png);
-    background-size: 25%;
+    background-image: url(../assets/images/hack-logo/hack.png);
+    background-size: 30%;
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
